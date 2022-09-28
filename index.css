@@ -1,3 +1,4 @@
+
 * {
   margin: 0px;
   padding: 0px;
@@ -14,4 +15,25 @@
 }
 div {
   padding: 5px;
+
+h1 {
+    background-color: blue;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+h2 {
+    background-color: blue;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 5px;
+}
+
+p {
+    background-color: blue;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 5px;
 }
