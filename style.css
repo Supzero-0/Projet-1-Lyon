@@ -1,3 +1,17 @@
+.footer ul {
+    display: inline-flexbox;
+    justify-content: space-between;
+
+}
+
+.footer logo-link {
+    display: flex;
+    cursor: pointer
+}
+
+.footer logo-link img {
+    max-height: 50px;
+
 body {
     background-image: url(Images/pexels-atypeek-dgn-6036842.jpg);
     background-size: cover;
@@ -11,4 +25,5 @@ body {
         margin-left: -512px;
         /* 50% */
     }
+
 }
