@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    <?php include("_mainNav.php"); ?>
     <script src="_mainNav.js"></script>
     <header>
         <h1>Bienvenue à Lyon</h1>
