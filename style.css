@@ -1,0 +1,14 @@
+.footer ul {
+    display: inline-flexbox;
+    justify-content: space-between;
+
+}
+
+.footer logo-link {
+    display: flex;
+    cursor: pointer
+}
+
+.footer logo-link img {
+    max-height: 50px;
+}
