@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer ul {
     display: inline-flexbox;
     justify-content: space-between;
@@ -11,4 +12,19 @@
 
 .footer logo-link img {
     max-height: 50px;
+=======
+body {
+    background-image: url(Images/pexels-atypeek-dgn-6036842.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: ;
+}
+
+@media screen and (max-width: 1024px) {
+    img {
+        left: 50%;
+        margin-left: -512px;
+        /* 50% */
+    }
+>>>>>>> c207dd56d99caac8a3ea20e257a0ecff65671833
 }

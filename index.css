@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .main-nav li a:link,
 .main-nav li a:visited {
     color: #0075b2;
@@ -6,4 +7,26 @@
     font-size: 150%;
     font-weight: 500;
     padding: 4px;
+=======
+h1 {
+    background-color: blue;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+h2 {
+    background-color: blue;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 5px;
+}
+
+p {
+    background-color: blue;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 5px;
+>>>>>>> c207dd56d99caac8a3ea20e257a0ecff65671833
 }
