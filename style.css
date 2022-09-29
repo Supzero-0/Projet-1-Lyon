@@ -11,12 +11,13 @@
 
 .footer logo-link img {
     max-height: 50px;
+}
 
 body {
     background-image: url(Images/pexels-atypeek-dgn-6036842.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: ;
+    background-position: center;
 }
 
 @media screen and (max-width: 1024px) {
@@ -25,5 +26,4 @@ body {
         margin-left: -512px;
         /* 50% */
     }
-
 }
