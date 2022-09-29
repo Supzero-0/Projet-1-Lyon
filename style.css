@@ -6,11 +6,12 @@
 
 .footer logo-link {
     display: flex;
-    cursor: pointer
+    cursor: pointer; 
 }
 
 .footer logo-link img {
     max-height: 50px;
+}
 
 body {
     background-image: url(Images/pexels-atypeek-dgn-6036842.jpg);
@@ -19,11 +20,10 @@ body {
     background-position: ;
 }
 
+
+/*
 @media screen and (max-width: 1024px) {
     img {
         left: 50%;
         margin-left: -512px;
         /* 50% */
-    }
-
-}
