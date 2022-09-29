@@ -31,6 +31,13 @@ div {
     padding: 4px;
 }
 
+body {
+    background-image: url(Images/lyon_vue_large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
 h1 {
     background-color: blue;
     ;
