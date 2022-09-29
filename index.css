@@ -1,23 +1,27 @@
-* {
-  margin: 0px;
-  padding: 0px;
+.main-nav li a:link {
+    text-decoration: none;
 }
-.navBar {
-  display: flex;
-  height: 50%;
-  width: 97%;
-  padding: 6px;
-  background-color: coral;
-  font-size: 13px;
-  font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
-}
-div {
-  padding: 5px;
 
-h1 {
-    background-color: blue; 
-.main-nav li a:link,
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navBar {
+    display: flex;
+    height: 50%;
+    width: 97%;
+    padding: 6px;
+    background-color: coral;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div {
+    padding: 5px;
+}
+
 .main-nav li a:visited {
     color: #0075b2;
     text-decoration: none;
@@ -25,8 +29,18 @@ h1 {
     font-size: 150%;
     font-weight: 500;
     padding: 4px;
+}
+
+body {
+    background-image: url(Images/lyon_vue_large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
 
 h1 {
+    background-color: blue;
+    ;
     border-radius: 10px;
     width: fit-content;
     margin: 0 auto;
