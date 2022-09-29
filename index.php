@@ -11,15 +11,21 @@
 </head>
 
 <body>
-    <?php include("_mainNav.php"); ?>
-    <script src="_mainNav.js"></script>
+
+<?php include("_mainNav.php"); ?>
+
+        <script src="_mainNav.js"></script>
     <header>
         <h1>Bienvenue à Lyon</h1>
     </header>
 
     <main>
-
+        <h2>Qui sommes-nous ?</h2>
+        <p>Bla bla bla</p>
     </main>
+
+<?php include("_footer.php"); ?>
+
 </body>
 
 </html>
