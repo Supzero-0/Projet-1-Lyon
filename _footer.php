@@ -4,7 +4,7 @@
 
 
             <a class="logo-link" href="https://www.lyon-france.com/" target="_blank">
-                <img src="https://www.lyon-france.com/bundles/oltcmainfront/images/logo.png" alt="Only Lyon logo"></a>
+                <img src="" alt="Only Lyon logo"></a>
 
             <a class="logo-link" href="https://www.lyon.fr/" target="_blank">
                 <img src="https://www.lyon.fr/themes/custom/lyonfr/images/LOGO-ville_de_lyon.svg" alt="Ville Lyon logo"></a>
