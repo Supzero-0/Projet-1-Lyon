@@ -1,21 +1,14 @@
-<html>
-<link rel="stylesheet" href="style.css">
-<ul class="navBar">
-  <li>
-    Accueil
+<nav class="navBar">
+<ul>
+   <li><a href="#">Accueil</a>
   </li>
-  <li>
-    Vieux Lyon
+  <li><a href="#">Vieux Lyon</a>
   </li>
-  <li>
-    Croix Rousse
+  <li><a href="#">Croix Rousse</a>
   </li>
-  <li>
-    Guillotière
+  <li><a href="#">Guillotière</a>
   </li>
-  <li>
-    Lyon 9
+  <li><a href="#">Lyon 9</a>
   </li>
 </ul>
-
-</html>
+</nav>

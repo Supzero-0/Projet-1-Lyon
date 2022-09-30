@@ -21,7 +21,7 @@
       Il comprend les quartiers de Vaise, Gorge de Loup, Saint-Rambert-l'Île-Barbe, La Duchère, Champvert-Nord et Montribloud. Il s'étale sur la rive droite de la Saône, ainsi que sur l'île Barbe, seule île fluviale lyonnaise. Il constitue l'arrondissement le plus septentrional de Lyon. 
       Le 9e arrondissement de Lyon est créé par le détachement de la partie septentrionale du 5e arrondissement (Décret du 12 août 1964), comprenant notamment l'ancienne commune de Saint-Rambert-l'Île-Barbe, annexée l'année précédente (décret du 1er août 1963).   
       </p>
-      <img src="Images/pexels-atypeek-dgn-6036842.jpg" alt="Plan de Lyon 9" class="lyonMap">
+      <img src="Images/Lyon_arrondissement_9.svg" alt="Plan de Lyon 9" class="lyonMap">
     <h2>
       Culture
     </h2>
