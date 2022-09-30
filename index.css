@@ -60,3 +60,16 @@ p {
     width: fit-content;
     padding: 5px;
 }
+
+footer navbar ul {
+    display: flex;
+    justify-content: space-around;
+    background-color: coral;
+
+}
+
+
+
+footer navbar ul a {
+    max-height: 60px;
+}
