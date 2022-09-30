@@ -59,3 +59,23 @@ p {
     width: fit-content;
     padding: 5px;
 }
+
+img {
+    background-color: brown;
+    opacity: 15;
+}
+
+img::before {
+
+    opacity: 15;
+}
+
+img:hover {
+    background: black;
+}
+
+
+div img {
+    border-radius: 5%;
+    width: 88%;
+}
