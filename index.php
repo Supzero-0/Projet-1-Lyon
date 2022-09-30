@@ -12,9 +12,9 @@
 
 <body>
 
-<?php include("_mainNav.php"); ?>
+    <?php include("_mainNav.php"); ?>
 
-        <script src="_mainNav.js"></script>
+    <script src="_mainNav.js"></script>
     <header>
         <h1>Bienvenue à Lyon</h1>
     </header>
@@ -24,7 +24,7 @@
         <p>Bla bla bla</p>
     </main>
 
-<?php include("_footer.php"); ?>
+    <?php include("_footer.php"); ?>
 
 </body>
 

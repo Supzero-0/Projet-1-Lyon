@@ -1,17 +1,21 @@
-<div class="navBar">
-   <div>
+<html>
+<link rel="stylesheet" href="style.css">
+<ul class="navBar">
+  <li>
     Accueil
-  </div>
-  <div>
-   Vieux Lyon
-  </div>
-  <div>
-   Croix Rousse
-   </div>
-   <div>
-  Guillotière
-  </div>
-  <div>
-  Lyon 9
-  </div>
-</div>
+  </li>
+  <li>
+    Vieux Lyon
+  </li>
+  <li>
+    Croix Rousse
+  </li>
+  <li>
+    Guillotière
+  </li>
+  <li>
+    Lyon 9
+  </li>
+</ul>
+
+</html>
