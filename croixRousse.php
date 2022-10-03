@@ -65,6 +65,7 @@
         Jardin rosa Mir : Ce jardin atypique niché au cœur de la Croix-Rousse, œuvre de Jules Senis Mir, ce maçon espagnol autodidacte qui a réalisé l’ouvrage pierre par pierre. Construit à partir de 1957, le jardin Rosa mir aux inspirations arabo-andalouses est composé de matériaux accumulés pendant des années : galets, cailloux ramassés sur des chantiers, coquillages ...
         </p>
         <img src="Images/Croix-Rousse/mur-peint-croix-rousse.jpg" alt="Mur peint Croix-Rousse"> <!-- image mur des Canuts + mur 69 -->
+        <p>
         Arts urbains sur croix-rousse : Le mur des Canuts, mur 69
         </p>
         <img src="Images/Croix-Rousse/Parc-Cerisaie.jpg" alt="Jardin Rosa Mir Croix-Rousse"> <!-- image parcs -->
