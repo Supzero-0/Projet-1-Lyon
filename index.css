@@ -1,17 +1,26 @@
 .navBar ul {
     margin: 0px;
     padding: 0px;
+    margin-block-start: 0;
+    padding-inline-start: 0;
+    margin-block-end: 0;
+    display: flex;
+    justify-content: space-around;
 }
+
 .navBar {
     display: flex;
     background-color: darksalmon;
 }
+
 .navBar li {
     margin: 0px;
     list-style-type: none;
+    padding: 5px;
 }
+
 .navBar a {
-    display: flex; 
+    display: flex;
     color: black;
     height: 50%;
     width: 97%;
@@ -21,21 +30,12 @@
     text-align: center;
     list-style-type: none;
 }
+
 .main-nav li a:link {
     text-decoration: none;
 }
 
-ul {
-    margin-block-start: 0;
-    padding-inline-start: 0;
-    margin-block-end: 0;
-    display: flex;
-    justify-content: space-around;
-}
-
-li {
-    padding: 5px;
-}
+ul {}
 
 .main-nav li a:visited {
     color: #0075b2;
@@ -45,6 +45,7 @@ li {
     font-weight: 500;
     padding: 4px;
 }
+
 body {
     margin: 0px;
     padding: 0px;
@@ -53,6 +54,7 @@ body {
     background-repeat: no-repeat;
     background-position: 50%;
 }
+
 h1 {
     background-color: blue;
     ;
@@ -77,6 +79,7 @@ p {
 }
 
 img {}
+
 .map-container {
     background-image: url("Images/map_globale_lyon.png");
     height: 1528px;
@@ -84,13 +87,15 @@ img {}
     background-size: cover;
     position: relative;
     border-radius: 5%;
-  }
-.map-container canvas { 
-    position: absolute; 
+}
+
+.map-container canvas {
+    position: absolute;
     height: 1528px;
     width: 1372px;
 }
+
 .map-container img {
-  opacity: 0;
-  position: absolute;
+    opacity: 0;
+    position: absolute;
 }

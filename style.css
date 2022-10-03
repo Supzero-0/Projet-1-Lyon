@@ -10,21 +10,14 @@ body {
 }*/
 
 .navBar {
-    background-color: coral;
-    font-size: 13px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.navBar ul {
     display: flex;
-    justify-content: space-around;
-    margin: 0px;
-    padding: 0px;
+    background-color: darksalmon;
 }
 
 .navBar li {
     margin: 0px;
     list-style-type: none;
+    padding: 5px;
 }
 
 .navBar a {
@@ -37,6 +30,29 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     list-style-type: none;
+}
+
+.navBar ul {
+    margin: 0px;
+    padding: 0px;
+    margin-block-start: 0;
+    padding-inline-start: 0;
+    margin-block-end: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-nav li a:link {
+    text-decoration: none;
+}
+
+.main-nav li a:visited {
+    color: #0075b2;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 150%;
+    font-weight: 500;
+    padding: 4px;
 }
 
 header h1 {
@@ -81,6 +97,7 @@ article p {
     border-radius: 10px;
     width: fit-content;
 }
+
 
 .footer ul {
     display: inline-flexbox;
