@@ -25,8 +25,31 @@
     <h2>
       Culture
     </h2>
+    <h3>
+    Bibliothèques & médiathèques
+    </h3>
     <p>
-      Bla bla bla
+    Il n'y a pas moins de 3 bibliothèques et médiathèque à Lyon 9e. 
+    1) La Médiathèque de Vaise (Place Valmy)
+    2) La Bibliothèque et discothèque de Saint-Rambert (3, place Schönberg)
+    3) La Bibliothèque de La Duchère (226, avenue du Plateau)
+    </p>
+    <h3>
+      Spectacles et cinémas
+    </h3>
+    <p>
+      3 théatres : 
+      1) Le Social Palace
+      2) Le Théatre Acte 2
+      3) Le Théatre Nouvelle Génération
+    </p>
+    <h3>
+      Cinémas 
+    </h3>
+    <p>
+    2 cinémas : 
+      1) le Ciné Duchère 
+      2) le cinéma Pathé de Vaise
     </p>
     <h2>
       Restauration
