@@ -169,8 +169,6 @@ body {
         border: 1px solid black;
         margin: 20px 8px;
         padding: 15px;
-        display: flex;
-        flex-wrap: wrap;
     }
 
     article h2 {
@@ -206,8 +204,8 @@ body {
         background-color: grey;
         border: 2px solid black;
         border-radius: 10px;
-        width: 43%;
-        min-width: 585px;
+        width: 585px;
+        flex-basis: 585px;
         height: fit-content;
         line-height: 1.75;
     }
