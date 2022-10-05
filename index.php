@@ -19,7 +19,7 @@
 
     <main>
 
-        <div class=map><iframe width="390vw" height="350vh" frameborder="0" allowfullscreen src="https://framacarte.org/fr/map/quartier-lyon_134361?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+        <div class=map><iframe width="390" height="350" frameborder="0" allowfullscreen src="https://framacarte.org/fr/map/quartier-lyon_134361?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
         </div>
         <div class=us>
             <h2>Qui sommes-nous ?</h2>

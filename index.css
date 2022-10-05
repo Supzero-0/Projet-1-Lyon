@@ -134,12 +134,16 @@ p {
 iframe {
     width: 100%;
     border-radius: 5%;
-    grid-column: 1 / 4;
+
 }
 
 @media only screen and (min-width: 768px) {
     main {
         display: flex;
+    }
+
+    iframe {
+        min-width: 700px
     }
 }
 
