@@ -97,20 +97,6 @@ ul {}
 }
 
 body {
-    margin: 0px;
-    padding: 0px;
-    background-image: url(Images/pexels-atypeek-dgn-12613844.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50%;
-}
-
-*/
-
-/*body {
-    background: url(Images/pexels-atypeek-dgn-12613844.jpg) center opacity: 0.9;
-}*/
-body {
     background: rgba(245, 129, 76, 0.2);
     background: linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
     background: -webkit-linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
