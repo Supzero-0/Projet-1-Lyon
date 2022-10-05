@@ -27,8 +27,6 @@
     </main>
 
     <?php include("_footer.php"); ?>
-    <script src="imagehighlighter.js"></script>
-    <script src="index.js"></script>
 </body>
 
 </html>
