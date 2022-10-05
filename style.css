@@ -80,13 +80,13 @@ article h2 {
     padding: 5px;
 }
 
-article img {
+article div img {
     max-width: 100%;
     display: block;
     margin: 0 auto;
 }
 
-article p {
+article div p {
     background-color: grey;
     border: 2px solid black;
     border-radius: 10px;
@@ -126,23 +126,39 @@ footer logo-link {
         background-color: grey;
         border: 2px solid black;
         border-radius: 10px;
-        width: 100%;
+        width: fit-content;
         margin: 10px auto;
         padding: 5px;
-        text-align: center;
     }
 
-    article img {
-        width: 53%;
+    article div {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .imgLeft {
+        flex-direction: row;
+    }
+
+    .imgRight {
+        flex-direction: row-reverse;
+    }
+
+    article div img {
+        max-width: 53%;
+        max-height: 750px;
         margin: 20px 10px;
     }
 
-    article p {
+    article div p {
         background-color: grey;
         border: 2px solid black;
         border-radius: 10px;
         width: 43%;
-        text-align: center;
+        min-width: 585px;
+        height: fit-content;
+        line-height: 1.75;
     }
 
 }
