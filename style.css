@@ -68,6 +68,8 @@ header h1 {
 header img {
     max-width: 100%;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 article {
@@ -112,4 +114,38 @@ article p {
 
 .footer logo-link img {
     max-height: 50px;
+}
+
+@media only screen and (min-width: 768px) {
+    article {
+        border: 1px solid black;
+        margin: 20px 8px;
+        padding: 15px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    article h2 {
+        background-color: grey;
+        border: 2px solid black;
+        border-radius: 10px;
+        width: 100%;
+        margin: 10px auto;
+        padding: 5px;
+        text-align: center;
+    }
+
+    article img {
+        width: 53%;
+        margin: 20px 10px;
+    }
+
+    article p {
+        background-color: grey;
+        border: 2px solid black;
+        border-radius: 10px;
+        width: 43%;
+        text-align: center;
+    }
+
 }
