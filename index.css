@@ -1,3 +1,7 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
 .navBar ul {
     margin: 0px;
     padding: 0px;
@@ -46,38 +50,69 @@ ul {}
     padding: 4px;
 }
 
-body {
+/* body {
     margin: 0px;
     padding: 0px;
-    background-image: url(Images/lyon_vue_large.jpg);
+    background-image: url(Images/pexels-atypeek-dgn-12613844.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
+}*/
+
+
+
+/*body {
+    background: url(Images/pexels-atypeek-dgn-12613844.jpg) center opacity: 0.9;
+}*/
+body {
+    background: #57bbeb;
+    background: linear-gradient(171deg, #57bbeb 0%, rgba(42, 161, 219, 0.08) 80%);
+    background: -webkit-linear-gradient(171deg, #57bbeb 0%, rgba(42, 161, 219, 0.08) 80%);
+    background: -moz-linear-gradient(171deg, #57bbeb 0%, rgba(42, 161, 219, 0.08) 80%);
 }
 
 h1 {
-    background-color: blue;
-    ;
+    background-color: #DB3E2A;
     border-radius: 10px;
     width: fit-content;
-    margin: 0 auto;
-    padding: 5px;
+    margin: 25px auto;
+    padding: 15px;
+    font-size: 9vw;
 }
 
 h2 {
-    background-color: blue;
+    background-color: #DB3E2A;
     border-radius: 10px;
     width: fit-content;
     padding: 5px;
+    margin: 5% auto;
 }
 
 p {
-    background-color: blue;
+    background-color: #EBA357;
     border-radius: 10px;
     width: fit-content;
-    padding: 5px;
+    padding: 15px;
+    margin: 15px;
 }
 
+
+
 iframe {
-    width: 99%;
+    width: 100%;
+    border-radius: 5%;
+    grid-column: 1 / 4;
+}
+
+@media only screen and (min-width: 768px) {
+    main {
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr;
+        align-items: center;
+    }
+
+    .us {
+        grid-column: 3 / 3;
+    }
+
 }

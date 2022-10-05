@@ -26,8 +26,8 @@
     <!-- image vieux Lyon 1960 -->
     <article>
         <h2>Culture</h2>
-        musées / art / architecture /
-        <!-- image musé gadagne et archi VL -->
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit dicta sapiente pariatur numquam? Expedita nostrum doloribus hic, laborum voluptas possimus! Repellat quia qui commodi veritatis, reprehenderit nam inventore consectetur error!
+        <!--  musées / art / architecture / image musé gadagne et archi VL -->
         <img src="Images/IMGVLyon/museegadagne.jpeg">
     </article>
     <article>
