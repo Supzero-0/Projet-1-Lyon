@@ -9,6 +9,10 @@
 </head>
 
 <body>
+<div id="scroll_to_top">
+    <a href="#top"><img src="Images/arrow-top-3-svgrepo-com.svg" alt=" Retour en haut" /></a>
+</div>
+
 
   <?php include("_mainNav.php") ?>
 
@@ -28,6 +32,7 @@
       </p>
     </div>
   </article>
+
   <article> 
     <h2>Culture</h2>
       <h3>Bibliothèques & médiathèques</h3>
@@ -85,6 +90,7 @@
         </p>
       </div>
   </article>
+
   <article>
     <h2>Activités</h2>
       <h3>1) L'odyssée des coccinelles</h3>

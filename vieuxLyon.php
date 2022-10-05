@@ -11,6 +11,9 @@
 <?php include("_mainNav.php") ?>
 
 <body id="backgroundVieuxLyon">
+    <div id="scroll_to_top">
+        <a href="#top"><img src="Images/arrow-top-3-svgrepo-com.svg" alt=" Retour en haut" /></a>
+    </div>
     <header>
         <h1>Le Vieux Lyon</h1>
         <img src="Images/IMGVLyon/vieux-lyon1.jpeg">
