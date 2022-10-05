@@ -16,7 +16,9 @@
 
     <header>
         <h1>Guillotière</h1>
+        <img src="" alt="">
     </header>
+
     <main>
 
         <article>
