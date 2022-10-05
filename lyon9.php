@@ -14,13 +14,26 @@
 
     <header>
         <h1>
-          Lyon 9
+          Lyon 9 - Valmy, Vaise, Saint-Rambert
         </h1>
+        <nav class="miniNavBar">
+  <ul>
+    <li><a href="#histoire">Histoire</a>
+    </li>
+    <li><a href="#culture">Culture</a>
+    </li>
+    <li><a href="#restauration">Restauration</a>
+    </li>
+    <li><a href="#activites">Activités</a>
+    </li>
+  </ul>
+</nav>
+
         <img src="Images/Lyon9/Mairie9.jpg" alt="Mairie du 9e">
     </header>
 
     <article>
-        <h2>
+        <h2 id="histoire">
           Histoire
         </h2>
             <p>
@@ -31,7 +44,7 @@
             <img src="Images/Lyon9/Lyon_arrondissement_9.svg" alt="Plan de Lyon 9" class="lyonMap">
     </article>
     <article> 
-      <h2>
+      <h2 id="culture">
         Culture
       </h2>
         <h3>
@@ -66,7 +79,7 @@
     </article>
 
     <article>
-      <h2>
+      <h2 id="restauration">
         Restauration
       </h2>
         <h3>
@@ -93,7 +106,7 @@
             <img src="Images/Lyon9/platCircus.jpg" alt="Plat du Milord Circus">
     </article>
     <article>
-    <h2>
+    <h2 id="activites">
       Activités
     </h2>
         <h3>
