@@ -21,7 +21,7 @@
     <main>
 
         <div id="scroll_to_top">
-            <a href="#top"><img src="image/scrolltop.png" alt="Retour en haut" /></a>
+            <a href="#top"><img src="Images/arrow-top-3-svgrepo-com.svg" alt=" Retour en haut" /></a>
         </div>
 
         <article>

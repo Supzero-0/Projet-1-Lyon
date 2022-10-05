@@ -40,7 +40,6 @@ body {
     text-decoration: none;
 }
 
-ul {}
 
 .main-nav li a:visited {
     color: #0075b2;
@@ -156,7 +155,6 @@ footer ul p {
     background-color: grey;
 }
 
-<<<<<<< HEAD
 #scroll_to_top {
     position: fixed;
     width: 25px;
@@ -167,13 +165,13 @@ footer ul p {
 
 #scroll_to_top img {
     width: 25px;
-=======
+}
+
 body {
     background: rgba(245, 129, 76, 0.2);
     background: linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
     background: -webkit-linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
     background: -moz-linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
->>>>>>> e35ec596eed02b95b919b0c668cc9a57612633ed
 }
 
 @media only screen and (min-width: 768px) {

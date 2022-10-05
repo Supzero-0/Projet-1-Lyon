@@ -1,5 +1,5 @@
 * {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 0;
 }
 
@@ -104,6 +104,7 @@ body {
 }
 
 h1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     background-color: #f39268ea;
     border-radius: 10px;
     width: fit-content;
@@ -113,7 +114,7 @@ h1 {
 }
 
 h2 {
-    background-color: #DB3E2A;
+    background-color: #f39268ea;
     border-radius: 10px;
     width: fit-content;
     padding: 5px;
@@ -138,15 +139,8 @@ iframe {
 
 @media only screen and (min-width: 768px) {
     main {
-        display: grid;
-        grid-template-columns: 2fr 1fr 1fr;
-        align-items: center;
+        display: flex;
     }
-
-    .us {
-        grid-column: 3 / 3;
-    }
-
 }
 
 footer ul {
