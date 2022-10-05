@@ -94,26 +94,30 @@ article div p {
 }
 
 
-.footer ul {
-    display: inline-flexbox;
-    justify-content: space-between;
-
-}
-
-footer logo-link {
+footer ul {
     display: flex;
-    cursor: pointer;
+    justify-content: space-around;
+
 }
 
-footer logo-link {
-    max-height: 100px;
+
+footer ul img {
+    max-height: 60px;
 }
 
-.footer logo-link img {
-    max-height: 50px;
+footer ul p {
+    background-color: grey;
+}
+
+body {
+    background: #57bbeb;
+    background: linear-gradient(171deg, #57bbeb 0%, rgba(42, 161, 219, 0.08) 80%);
+    background: -webkit-linear-gradient(171deg, #57bbeb 0%, rgba(42, 161, 219, 0.08) 80%);
+    background: -moz-linear-gradient(171deg, #57bbeb 0%, rgba(42, 161, 219, 0.08) 80%);
 }
 
 @media only screen and (min-width: 768px) {
+
     article {
         border: 1px solid black;
         margin: 20px 8px;
@@ -160,5 +164,4 @@ footer logo-link {
         height: fit-content;
         line-height: 1.75;
     }
-
 }
