@@ -54,8 +54,15 @@
     <h2>
       Restauration
     </h2>
+    <h3>
+      1) Le Racine
+    </h3>
     <p>
-      Bla bla bla
+     Restaurant 
+    1 rue du Chapeau-Rouge, Lyon, 69009
+    Tel 04 26 18 57 15
+    Des produits bruts, frais, naturels, issus d'un terroir. 
+    Une cuisine maison, authentique et contemporaine.
     </p>
     <h2>
       Activités
