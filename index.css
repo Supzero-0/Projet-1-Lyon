@@ -2,16 +2,19 @@
     margin: 0px;
     padding: 0px;
 }
+
 .navBar {
     display: flex;
     background-color: darksalmon;
 }
+
 .navBar li {
     margin: 0px;
     list-style-type: none;
 }
+
 .navBar a {
-    display: flex; 
+    display: flex;
     color: black;
     height: 50%;
     width: 97%;
@@ -21,6 +24,7 @@
     text-align: center;
     list-style-type: none;
 }
+
 .main-nav li a:link {
     text-decoration: none;
 }
@@ -45,6 +49,7 @@ li {
     font-weight: 500;
     padding: 4px;
 }
+
 body {
     margin: 0px;
     padding: 0px;
@@ -53,6 +58,7 @@ body {
     background-repeat: no-repeat;
     background-position: 50%;
 }
+
 h1 {
     background-color: blue;
     ;
@@ -80,11 +86,16 @@ footer navbar ul {
     display: flex;
     justify-content: space-around;
     background-color: coral;
+    align-items: center;
 
 }
 
 
 
-footer navbar ul a {
-    max-height: 60px;
+footer navbar ul img {
+    height: 50px;
+}
+
+footer navbar ul p {
+    background-color: rgb(218, 214, 214);
 }
