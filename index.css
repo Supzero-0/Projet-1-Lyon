@@ -116,3 +116,18 @@ iframe {
     }
 
 }
+
+footer ul {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+footer ul img {
+    max-height: 100px;
+}
+
+footer ul p {
+    background-color: grey;
+}
