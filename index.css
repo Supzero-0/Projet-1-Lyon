@@ -78,24 +78,6 @@ p {
     padding: 5px;
 }
 
-img {}
-
-.map-container {
-    background-image: url("Images/map_globale_lyon.png");
-    height: 1528px;
-    width: 1372px;
-    background-size: cover;
-    position: relative;
-    border-radius: 5%;
-}
-
-.map-container canvas {
-    position: absolute;
-    height: 1528px;
-    width: 1372px;
-}
-
-.map-container img {
-    opacity: 0;
-    position: absolute;
+iframe {
+    width: 99%;
 }

@@ -2,13 +2,6 @@ body {
     margin: 0;
 }
 
-/* #backgroundVieuxLyon {
-    background-image: url(Images/IMGVLyon/funiculaire.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50%;
-}*/
-
 .navBar {
     display: flex;
     background-color: darksalmon;
@@ -107,9 +100,13 @@ article p {
 
 }
 
-.footer logo-link {
+footer logo-link {
     display: flex;
     cursor: pointer;
+}
+
+footer logo-link {
+    max-height: 100px;
 }
 
 .footer logo-link img {
