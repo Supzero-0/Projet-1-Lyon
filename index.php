@@ -23,7 +23,7 @@
     </div>
     <main>
         <h2>Qui sommes-nous ?</h2>
-        <p>Bla bla bla</p>
+        <p>Nous sommes Mathieu, Lila, Hugo et... Mathieu ! 4 étudiants à la Wild Code School de Lyon, spécialisés en cursus PHP. Ce site est notre premier projet ! Nous l'avons réalisé en équipe et en 2 petites semaines afin de mettre en valeur notre ville et des quartiers que nous affectionnons particulièrement. Il nous a permis de mettre en application les premières notions que nous avons appris lors de notre quinzaine d'arrivée ! Vous y trouverez des informations essentielles pour les découvrir, de leur histoire aux lieux incontournables !</p>
     </main>
 
     <?php include("_footer.php"); ?>
