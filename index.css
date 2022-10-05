@@ -1,6 +1,11 @@
 .navBar ul {
     margin: 0px;
     padding: 0px;
+    margin-block-start: 0;
+    padding-inline-start: 0;
+    margin-block-end: 0;
+    display: flex;
+    justify-content: space-around;
 }
 
 .navBar {
@@ -11,6 +16,7 @@
 .navBar li {
     margin: 0px;
     list-style-type: none;
+    padding: 5px;
 }
 
 .navBar a {
@@ -29,17 +35,7 @@
     text-decoration: none;
 }
 
-ul {
-    margin-block-start: 0;
-    padding-inline-start: 0;
-    margin-block-end: 0;
-    display: flex;
-    justify-content: space-around;
-}
-
-li {
-    padding: 5px;
-}
+ul {}
 
 .main-nav li a:visited {
     color: #0075b2;
@@ -82,6 +78,7 @@ p {
     padding: 5px;
 }
 
+<<<<<<< HEAD
 footer navbar ul {
     display: flex;
     justify-content: space-around;
@@ -98,4 +95,26 @@ footer navbar ul img {
 
 footer navbar ul p {
     background-color: rgb(218, 214, 214);
+=======
+img {}
+
+.map-container {
+    background-image: url("Images/map_globale_lyon.png");
+    height: 1528px;
+    width: 1372px;
+    background-size: cover;
+    position: relative;
+    border-radius: 5%;
+}
+
+.map-container canvas {
+    position: absolute;
+    height: 1528px;
+    width: 1372px;
+}
+
+.map-container img {
+    opacity: 0;
+    position: absolute;
+>>>>>>> 3e70301022e3a6925424e28a3e77869ea949760e
 }
