@@ -45,8 +45,6 @@ main {
     text-decoration: none;
 }
 
-ul {}
-
 .main-nav li a:visited {
     color: #0075b2;
     text-decoration: none;
@@ -87,7 +85,6 @@ ul {}
         text-decoration: none;
     }
 
-
     .main-nav li a:visited {
         color: #0075b2;
         text-decoration: none;
@@ -97,6 +94,30 @@ ul {}
         padding: 4px;
     }
 
+}
+
+
+#petitLion:hover {
+    cursor: pointer;
+
+}
+.petitLion {
+    display: flex; 
+    justify-content: center;
+}
+#petitLion {
+    display: flex;
+    justify-content: center;
+    width: 10vw;
+}
+@media screen and (max-width: 630px) {
+    .petitLion {
+        display: none; 
+     }
+    #petitLion {
+        display: none;
+        
+    }
 }
 
 body,

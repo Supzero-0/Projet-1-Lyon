@@ -40,7 +40,6 @@ body {
     text-decoration: none;
 }
 
-ul {}
 
 .main-nav li a:visited {
     color: #0075b2;
@@ -184,9 +183,15 @@ article div p {
 
 footer ul {
     display: flex;
-    justify-content: space-around;
     flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #EBA357;
+    align-items: center;
     padding: 0;
+    margin: 0;
+    padding-right: 40px;
+
+
 }
 
 
@@ -195,7 +200,7 @@ footer ul img {
 }
 
 footer ul p {
-    background-color: grey;
+    background-color: #ebd057;
 }
 
 #scroll_to_top {
