@@ -1,6 +1,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Source+Serif+Pro&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Source+Serif+Pro&display=swap" rel="stylesheet">
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -16,11 +16,11 @@
 <body>
     <?php include("_mainNav.php"); ?>
     <header>
-        <h1>Bienvenue à Lyon !!</h1>
+        <h1>Bienvenue à Lyon !</h1>
         <div class="petitLion">
             <img src="Images/petitLion.png" alt="petit lion" id="petitLion">
         </div>
-        </header>
+    </header>
 
     <main>
 
@@ -36,23 +36,19 @@
     <?php include("_footer.php"); ?>
     <script>
         document.getElementById("petitLion").onclick = function() {
-        let destination = prompt("Où veux-tu aller ? \n\nà Croix-Rousse, \nà Guillotière, \nà Vieux Lyon, \nà Lyon 9 ?");
-        if (destination === 'Croix-Rousse') {
-            window.location.href = "croixRousse.php";
+            let destination = prompt("Où veux-tu aller ? \n\nà Croix-Rousse, \nà Guillotière, \nà Vieux Lyon, \nà Lyon 9 ?");
+            if (destination === 'Croix-Rousse') {
+                window.location.href = "croixRousse.php";
+            } else if (destination === 'Guillotière') {
+                window.location.href = "guillotiere.php";
+            } else if (destination === 'Vieux Lyon') {
+                window.location.href = "vieuxLyon.php";
+            } else if (destination === 'Lyon 9') {
+                window.location.href = "lyon9.php";
+            } else {
+                alert("Je ne veux pas aller là-bas...");
+            }
         }
-        else if (destination === 'Guillotière') {
-            window.location.href = "guillotiere.php";
-        }
-        else if (destination === 'Vieux Lyon') {
-            window.location.href = "vieuxLyon.php";
-        }
-        else if (destination === 'Lyon 9') {
-            window.location.href = "lyon9.php";
-        }
-        else {
-            alert("Je ne veux pas aller là-bas...");
-        }
-    }
     </script>
 </body>
 
