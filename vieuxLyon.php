@@ -47,7 +47,7 @@
     <!-- image vieux Lyon 1960 -->
     <article>
         <h2 id="culture">Culture</h2>
-        <div class="imgLeft">
+        <div class="imgRight">
             <img src="Images/IMGVLyon/museegadagne.jpeg">
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit dicta sapiente pariatur numquam? Expedita nostrum doloribus hic, laborum voluptas possimus! Repellat quia qui commodi veritatis, reprehenderit nam inventore consectetur error!
@@ -72,7 +72,7 @@
 
     <article>
         <h2 id="activites">Activités</h2>
-        <div class="imgLeft">
+        <div class="imgRight">
             <img src="Images/IMGVLyon/parc-des-hauteurs-lyon-1.jpeg" alt="parcdeshauteurs">
             <p>
                 Vous trouverez principalement dans ce quartier de nombreuses possibilités de visiter le Vieux Lyon, soit à pied, en vélo, en cyclo-pousse ou même en trotinette (pas très agréable sur les pavés).
