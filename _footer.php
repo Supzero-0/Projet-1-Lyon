@@ -8,7 +8,7 @@
             <img src="Images\Logos footer\VDL-logo.jpg" alt="Ville Lyon logo"></a>
 
         <a class="logo-link" href="https://www.tcl.fr/" target="_blank">
-            <img src="Images\Logos footer\logo TCL.png" alt="TCL logo"></a>
+            <img src="Images/Logos footer/1280px-TCL_SYTRAL_(logo).svg.png" alt="TCL logo"></a>
 
         <a class="logo-link" href="https://www.routard.com/guide_a_voir/lyon.htm" target="_blank">
             <img src="Images\Logos footer\logo routard.png" alt="Routard logo"></a>
