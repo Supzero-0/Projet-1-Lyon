@@ -31,8 +31,8 @@
         <div class="imgRight">
             <img src="Images\Images Guillotière\Histoire-Place Raspail.jpg" alt="Ancienne place Raspail">
             <p>Le faubourg de la Guillotière était contesté par le Dauphiné et n'a été rattaché à la ville de Lyon qu'en 1852 !</p>
-            <img src="Images\Images Guillotière\Histoire-Place Saint Louis.jpg" alt="Place Saint Louis">
         </div>
+        <img src="Images\Images Guillotière\Histoire-Place Saint Louis.jpg" alt="Place Saint Louis">
     </article>
 
     <article>
@@ -44,8 +44,8 @@
         <div class="imgRight">
             <img src="Images\Images Guillotière\Culture - Ramadan.jpg" alt="Patisseries orientales">
             <p>Les habitants s'impliquent souvent dans la vie locale, que ce soit pour l'aménagement du quartier ou pour organiser des événements festifs qui rayonnent bien au-delà de ses frontières !</p>
-            <img src="Images\Images Guillotière\Culture - Eglise Saint Louis.jpg" alt="Eglise Saint-Louis">
         </div>
+        <img src="Images\Images Guillotière\Culture - Eglise Saint Louis.jpg" alt="Eglise Saint-Louis">
     </article>
 
     <article>
@@ -57,8 +57,8 @@
         <div class="imgRight">
             <img src="Images\Images Guillotière\Sorties - Fourmi.jpg" alt="Terrasse fourmillière">
             <p>A nouveau, l'identité du quartier se ressentira dans les produits proposés : souvent locaux, équitables et bio ! Mais il ne faut pas négliger ses restaurants qui auront de quoi ravir tous les palets avec des cuisines venues des 4 coins du monde.</p>
-            <img src="Images\Images Guillotière\Sorties - Court circuit.jpg" alt="PLace Mazagran">
         </div>
+        <img src="Images\Images Guillotière\Sorties - Court circuit.jpg" alt="PLace Mazagran">
     </article>
 
     <article>
@@ -70,8 +70,8 @@
         <div class="imgRight">
             <img src="Images\Images Guillotière\Activités- Centre Berthelot.jpg" alt="Centre Berthelot">
             <p>Pour les amoureux d'espaces verts, le parc Sergent Blandan vous ravira avec ses sections tout récemment aménagées, tandis que les quais du Rhône offriront un panorama grandiose avec vue sur Fourvière en fin de journée !</p>
-            <img src="Images\Images Guillotière\Activités- Parc Blandan.jpg" alt="Parc Blandan">
         </div>
+        <img src="Images\Images Guillotière\Activités- Parc Blandan.jpg" alt="Parc Blandan">
     </article>
 
     <?php include('_footer.php') ?>

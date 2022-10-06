@@ -70,15 +70,16 @@
         2) Le Théatre Acte 2 <br>
         3) Le Théatre Nouvelle Génération
       </p>
-      <h3>Cinémas</h3>
-      <div class="imgLeft">
-        <img src="Images/Lyon9/salleCinema2.jpg" alt="Autre salle de cinéma">
-        <p>
-          2 cinémas : <br>
-          1) le Ciné Duchère <br>
-          2) le cinéma Pathé de Vaise
-        </p>
-      </div>
+    </div>
+    <h3>Cinémas</h3>
+    <div class="imgLeft">
+      <img src="Images/Lyon9/salleCinema2.jpg" alt="Autre salle de cinéma">
+      <p>
+        2 cinémas : <br>
+        1) le Ciné Duchère <br>
+        2) le cinéma Pathé de Vaise
+      </p>
+    </div>
   </article>
 
   <article>
