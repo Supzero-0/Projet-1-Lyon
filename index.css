@@ -96,11 +96,22 @@ ul {}
 
 }
 
+body,
+html {
+    height: 100%;
+}
+
 body {
-    background: rgba(245, 129, 76, 0.2);
-    background: linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
-    background: -webkit-linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
-    background: -moz-linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
+    /* The image used */
+    background-image: url("Images/nathan-j-Uzvx4QuA_FY-unsplash.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
@@ -160,4 +171,16 @@ footer ul img {
 
 footer ul p {
     background-color: grey;
+}
+
+footer {
+
+    position: absolute;
+
+    bottom: 10;
+
+    width: 100%;
+
+    padding-top: 150px;
+
 }

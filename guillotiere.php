@@ -18,9 +18,9 @@
         <img src="Images\Images Guillotière\Guillotière embleme.jpg" alt="Esplanade Guillotière">
     </header>
 
-        <div id="scroll_to_top">
-            <a href="#top"><img src="Images/arrow-top-3-svgrepo-com.svg" alt=" Retour en haut" /></a>
-        </div>
+    <div id="scroll_to_top">
+        <a href="#top"><img src="Images/arrow-top-3-svgrepo-com.svg" alt=" Retour en haut" /></a>
+    </div>
 
     <article>
         <h2>Un brin d'histoire</h2>
