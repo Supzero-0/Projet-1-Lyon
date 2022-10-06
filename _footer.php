@@ -1,6 +1,5 @@
 <footer>
     <ul>
-        <p>Liens utiles :</p>
         <a class="logo-link" href="https://www.lyon-france.com/" target="_blank">
             <img src="Images/Logos footer/Only Lyon logo.png" alt="Only Lyon logo"></a>
 

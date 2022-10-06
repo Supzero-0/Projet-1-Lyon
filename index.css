@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+main {
+    height: 570px;
+}
+
 .navBar ul {
     margin: 0px;
     padding: 0px;
@@ -109,13 +113,13 @@ body {
 
     /* Center and scale the image nicely */
     background-position: center;
-    background-repeat: no-repeat;
+
     background-size: cover;
 }
 
 h1 {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color: #f39268ea;
+    background-color: #f5976e96;
     border-radius: 10px;
     width: fit-content;
     margin: 25px auto;
@@ -124,7 +128,7 @@ h1 {
 }
 
 h2 {
-    background-color: #f39268ea;
+    background-color: #f5976e96;
     border-radius: 10px;
     width: fit-content;
     padding: 5px;
@@ -150,22 +154,31 @@ iframe {
 @media only screen and (min-width: 768px) {
     main {
         display: flex;
+        height: 370px;
     }
 
     iframe {
         min-width: 700px
     }
+
+    footer ul {
+        display: flex;
+        justify-content: space-around;
+
+    }
 }
 
 footer ul {
-    display: flex;
-    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    padding: 0;
 
 }
 
 
 footer ul img {
     max-height: 50px;
+    ratio: 1/2
 }
 
 footer ul p {
