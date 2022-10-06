@@ -15,6 +15,18 @@
 
     <header>
         <h1>Guillotière et les quais du Rhône</h1>
+        <nav class="miniNavBar">
+            <ul>
+                <li><a href="#histoire">Histoire</a>
+                </li>
+                <li><a href="#culture">Culture</a>
+                </li>
+                <li><a href="#restauration">Restauration</a>
+                </li>
+                <li><a href="#activites">Activités</a>
+                </li>
+            </ul>
+        </nav>
         <img src="Images\Images Guillotière\Guillotière embleme.jpg" alt="Esplanade Guillotière">
     </header>
 

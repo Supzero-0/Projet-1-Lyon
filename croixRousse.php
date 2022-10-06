@@ -17,6 +17,18 @@
 
     <header>
         <h1>Lyon 4ème : Croix-Rousse et ses pentes</h1>
+        <nav class="miniNavBar">
+            <ul>
+                <li><a href="#histoire">Histoire</a>
+                </li>
+                <li><a href="#culture">Culture</a>
+                </li>
+                <li><a href="#restauration">Restauration</a>
+                </li>
+                <li><a href="#activites">Activités</a>
+                </li>
+            </ul>
+        </nav>
         <img src="Images/Croix-Rousse/hopital-croix-rousse.jpg" alt="Hopital Croix-Rousse">
         <!-- image emblématique + sous menu -->
     </header>

@@ -134,28 +134,6 @@ body {
     text-decoration: none;
 }
 
-@media screen and (min-width: 390px) {
-    .miniNavBar ul {
-        display: none;
-    }
-
-    .miniNavbar {
-        display: none;
-    }
-
-    .miniNavBar li {
-        display: none;
-    }
-
-    .miniNavBar a {
-        display: none;
-    }
-
-    .miniNavBar li a:link {
-        display: none;
-    }
-}
-
 header h1 {
     background-color: grey;
     border: 2px solid black;
@@ -206,7 +184,14 @@ article div p {
 
 footer ul {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
+    background-color: #EBA357;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    padding-right: 40px;
+
 
 }
 
@@ -216,7 +201,7 @@ footer ul img {
 }
 
 footer ul p {
-    background-color: grey;
+    background-color: #ebd057;
 }
 
 #scroll_to_top {
@@ -239,6 +224,25 @@ body {
 }
 
 @media only screen and (min-width: 768px) {
+    .miniNavBar ul {
+        display: none;
+    }
+
+    .miniNavbar {
+        display: none;
+    }
+
+    .miniNavBar li {
+        display: none;
+    }
+
+    .miniNavBar a {
+        display: none;
+    }
+
+    .miniNavBar li a:link {
+        display: none;
+    }
 
     article {
         border: 1px solid black;

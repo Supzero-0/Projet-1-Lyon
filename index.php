@@ -14,8 +14,10 @@
     <?php include("_mainNav.php"); ?>
     <header>
         <h1>Bienvenue à Lyon</h1>
-    </header>
-    </div>
+        <div class="petitLion">
+            <img src="Images/petitLion.png" alt="petit lion" id="petitLion">
+        </div>
+        </header>
 
     <main>
 
@@ -29,7 +31,26 @@
 
     </main>
     <?php include("_footer.php"); ?>
-
+    <script>
+        document.getElementById("petitLion").onclick = function() {
+        let destination = prompt("Où veux-tu aller ? \n\nà Croix-Rousse, \nà Guillotière, \nà Vieux Lyon, \nà Lyon 9 ?");
+        if (destination === 'Croix-Rousse') {
+            window.location.href = "croixRousse.php";
+        }
+        else if (destination === 'Guillotière') {
+            window.location.href = "guillotiere.php";
+        }
+        else if (destination === 'Vieux Lyon') {
+            window.location.href = "vieuxLyon.php";
+        }
+        else if (destination === 'Lyon 9') {
+            window.location.href = "lyon9.php";
+        }
+        else {
+            alert("Je ne veux pas aller là-bas...");
+        }
+    }
+    </script>
 </body>
 
 
