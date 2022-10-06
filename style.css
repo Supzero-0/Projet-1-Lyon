@@ -16,6 +16,7 @@ body {
 .navBar {
     display: flex;
     background-color: #EBA357;
+    justify-content: center;
 }
 
 .navBar li {
@@ -31,7 +32,7 @@ body {
     width: 97%;
     padding: 6px;
     font-size: 13px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Source Serif Pro', serif;
     text-align: center;
     list-style-type: none;
     text-decoration: none;
@@ -54,8 +55,8 @@ body {
 
 @media screen and (min-width: 390px) {
     .navBar {
-        display: flex;
-        background-color: #EBA357;
+        display: inherit;
+        background-color: #e5b76da8;
         justify-content: center;
     }
 
@@ -63,16 +64,17 @@ body {
         margin: 0px;
         list-style-type: none;
         padding: 5px;
+        width: 30vw;
     }
 
     .navBar a {
         display: inline-block;
         color: black;
-        height: 50%;
+        height:  0.3vh;
         width: 97%;
-        padding: 1.5vw;
-        font-size: 3vw;
-        font-family: Arial, Helvetica, sans-serif;
+        padding: 0vw;
+        font-size: 3.1vw;
+        font-family: 'Source Serif Pro', serif;
         text-align: center;
         list-style-type: none;
         text-decoration: none;
@@ -136,6 +138,8 @@ body {
 }
 
 header h1 {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 6vw;
     background-color: #f5c397bf;
     border-radius: 7.5px;
     width: fit-content;
@@ -259,8 +263,7 @@ body {
     }
 
     article h2 {
-        background-color: grey;
-        border: 2px solid black;
+        background-color: #f5c397bf;
         border-radius: 7.5px;
         width: fit-content;
         margin: 10px auto;

@@ -16,7 +16,7 @@
 <body>
     <?php include("_mainNav.php"); ?>
     <header>
-        <h1>Bienvenue à Lyon</h1>
+        <h1>Bienvenue à Lyon !!</h1>
         <div class="petitLion">
             <img src="Images/petitLion.png" alt="petit lion" id="petitLion">
         </div>

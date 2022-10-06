@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Source+Serif+Pro&display=swap" rel="stylesheet"> 
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -16,7 +19,7 @@
     <?php include("_mainNav.php") ?>
 
     <header>
-        <h1>Lyon 4ème : Croix-Rousse et ses pentes</h1>
+        <h1>Croix-Rousse</h1>
         <nav class="miniNavBar">
             <ul>
                 <li><a href="#histoire">Histoire</a>
