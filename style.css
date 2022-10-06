@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    margin-bottom: 45px;
 }
 
 .navBar ul {
@@ -216,7 +217,7 @@ footer ul p {
 #scroll_to_top {
     position: fixed;
     width: 25px;
-    height: 25px;
+    height: 50px;
     bottom: 50px;
     right: 30px;
 }

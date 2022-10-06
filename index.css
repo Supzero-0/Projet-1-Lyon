@@ -35,7 +35,7 @@ main {
     width: 97%;
     padding: 6px;
     font-size: 13px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Source Serif Pro', serif;
     text-align: center;
     list-style-type: none;
     text-decoration: none;
@@ -58,7 +58,7 @@ main {
 @media screen and (min-width: 390px) {
     .navBar {
         display: flex;
-        background-color: #EBA357;
+        background-color: #b1bfc7e0;
         justify-content: center;
     }
 
@@ -75,7 +75,7 @@ main {
         width: 97%;
         padding: 1.5vw;
         font-size: 3vw;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Source Serif Pro', serif;
         text-align: center;
         list-style-type: none;
         text-decoration: none;
@@ -101,22 +101,26 @@ main {
     cursor: pointer;
 
 }
+
 .petitLion {
-    display: flex; 
+    display: flex;
     justify-content: center;
 }
+
 #petitLion {
     display: flex;
     justify-content: center;
     width: 10vw;
 }
+
 @media screen and (max-width: 630px) {
     .petitLion {
-        display: none; 
-     }
+        display: none;
+    }
+
     #petitLion {
         display: none;
-        
+
     }
 }
 
@@ -134,13 +138,14 @@ body {
 
     /* Center and scale the image nicely */
     background-position: center;
+    background-repeat: repeat-y;
 
     background-size: cover;
 }
 
 h1 {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color: #f5976e96;
+    font-family: 'Dancing Script', cursive; 
+    background-color: #e5b76da8;
     border-radius: 10px;
     width: fit-content;
     margin: 25px auto;
@@ -149,7 +154,7 @@ h1 {
 }
 
 h2 {
-    background-color: #f5976e96;
+    background-color: #e4b76cb0;
     border-radius: 10px;
     width: fit-content;
     padding: 5px;
@@ -157,7 +162,7 @@ h2 {
 }
 
 p {
-    background-color: #EBA357;
+    background-color: #e4b76c;
     border-radius: 10px;
     width: fit-content;
     padding: 15px;
@@ -199,7 +204,6 @@ footer ul {
 
 footer ul img {
     max-height: 50px;
-    ratio: 1/2
 }
 
 footer ul p {
@@ -215,5 +219,16 @@ footer {
     width: 100%;
 
     padding-top: 150px;
+
+}
+
+footer ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+
 
 }
