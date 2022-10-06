@@ -35,36 +35,36 @@
     </div>
 
     <article>
-        <h2 id="histoire">Un brin d'histoire</h2>
+        <h2>Un brin d'histoire</h2>
         <div class="imgLeft">
             <img src="Images\Images Guillotière\Histoire-pont-de-la-guillotiere.jpg" alt="Histoire pont de la Guillotière">
-            <p>La Guillotière est située sur la rive gauche du Rhône et recouvre une partie des 3ème et 7ème arrondissements de Lyon. L'origine du nom est incertaine, venant soit du nom de fameux aubergistes locaux locaux, soit des druides qui en ramenaient du gui.</p>
+            <p>La Guillotière est située sur la rive gauche du Rhône et recouvre une partie des 3ème et 7ème arrondissements de Lyon. L'origine de son nom est incertaine, venant du nom de fameux aubergistes locaux, des druides qui s'y rendaient pour en ramener du gui, ou encore des grelots des mulets qui traversaient le pont.</p>
         </div>
         <div class="imgRight">
             <img src="Images\Images Guillotière\Histoire-Place Raspail.jpg" alt="Ancienne place Raspail">
-            <p>Le faubourg de la Guillotière était contesté par le Dauphiné et n'a été rattaché à la ville de Lyon qu'en 1852 !</p>
+            <p>Le faubourg de la Guillotière s'est développé dès le Moyen-Âge et a été longtemps contesté par le Dauphiné. Lors de la Révolution française, il a été rattaché à la commune de Lyon nouvellement créée avant de clamer son indépendance avec l'Insurrection lyonnaise de 1793. Il n'a été définitivement lié à la ville de Lyon qu'en 1852 !</p>
         </div>
         <img src="Images\Images Guillotière\Histoire-Place Saint Louis.jpg" alt="Place Saint Louis">
     </article>
 
     <article>
-        <h2 id="culture">La vie culturelle</h2>
+        <h2>La vie culturelle</h2>
         <div class="imgLeft">
             <img src="Images\Images Guillotière\Culture - Nouvel an chinois.jpg" alt="Nouvel an chinois">
-            <p>De par sa longue tradition d'accueil et d'arrivée de populations immigrées, "la Guill" est un véritable melting pot ! En effet, de nombreuses associations et amicales de cultures étrangères s'y retrouvent, de l'Asie à l'Afrique en passant par l'Europe de l'est.</p>
+            <p>De par sa longue tradition d'accueil et d'arrivée de populations immigrées, "la Guill" est un véritable melting pot ! En effet, le pont de la Guillotière a longtemps été le seul pont de Lyon sur le Rhône, lui conférant un statut unique de porte d'entrée sur la ville. Aujourd'hui encore, de nombreuses associations et amicales de cultures étrangères s'y retrouvent, de l'Asie à l'Afrique en passant par l'Europe de l'est.</p>
         </div>
         <div class="imgRight">
             <img src="Images\Images Guillotière\Culture - Ramadan.jpg" alt="Patisseries orientales">
-            <p>Les habitants s'impliquent souvent dans la vie locale, que ce soit pour l'aménagement du quartier ou pour organiser des événements festifs qui rayonnent bien au-delà de ses frontières !</p>
+            <p>Les habitants s'impliquent souvent dans la vie locale, que ce soit pour l'aménagement du quartier ou pour organiser des événements festifs qui rayonnent bien au-delà de ses frontières ! Par exemple, le quartier a vu la naissance dès 2003 du mouvement de "l'Ilot Mazagran" pour la création d'un jardin paratgé et la préservation de liens sociaux.</p>
         </div>
         <img src="Images\Images Guillotière\Culture - Eglise Saint Louis.jpg" alt="Eglise Saint-Louis">
     </article>
 
     <article>
-        <h2 id="restauration">Où sortir le soir ?</h2>
+        <h2>Où sortir le soir ?</h2>
         <div class="imgLeft">
             <img src="Images\Images Guillotière\Sorties-PLace Raspail.jpg" alt="Place Raspail">
-            <p>La Guillotière est aussi très connue et appréciée pour sa vie nocturne ! Que ce soit pour un afterwork posé ou une soirée endiablée, de nombreuses options s'offrent à vous.</p>
+            <p>La Guillotière est aussi très connue et appréciée pour sa vie nocturne. Que ce soit pour un afterwork posé dans un bar cosy ou une soirée endiablée sur le dancefloor des péniches, de nombreuses options s'offrent à vous !</p>
         </div>
         <div class="imgRight">
             <img src="Images\Images Guillotière\Sorties - Fourmi.jpg" alt="Terrasse fourmillière">
@@ -74,7 +74,7 @@
     </article>
 
     <article>
-        <h2 id="activite">Que faire la journée ?</h2>
+        <h2>Que faire la journée ?</h2>
         <div class="imgLeft">
             <img src="Images\Images Guillotière\Activités - Quais du Rhône.jpg" alt="Quais du Rhône">
             <p>Il existe de nombreux lieux à découvrir et surtout d'espaces à explorer à la Guillotière. Le centre Berthelot est un lieu chargé d'histoire, tandis que le cinéma Comoedia propose une sélection de films de qualité.</p>
