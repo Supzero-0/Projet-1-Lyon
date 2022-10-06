@@ -137,10 +137,10 @@ body {
 header h1 {
     background-color: grey;
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 7.5px;
     width: fit-content;
     margin: 10px auto;
-    padding: 5px;
+    padding: 15px;
     text-align: center;
 }
 
@@ -148,7 +148,7 @@ header img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 article {
@@ -160,25 +160,34 @@ article {
 article h2 {
     background-color: grey;
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 7.5px;
     width: fit-content;
     margin: 10px auto;
-    padding: 5px;
+    padding: 15px;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+article p {
+    text-align: center;
 }
 
 article div img {
     max-width: 100%;
     display: block;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 article div p {
-    background-color: grey;
-    border: 2px solid black;
-    border-radius: 10px;
     width: fit-content;
     margin: 20px auto;
     line-height: 1.5;
+    text-align: left;
 }
 
 
@@ -253,10 +262,10 @@ body {
     article h2 {
         background-color: grey;
         border: 2px solid black;
-        border-radius: 10px;
+        border-radius: 7.5px;
         width: fit-content;
         margin: 10px auto;
-        padding: 5px;
+        padding: 15px;
     }
 
     article div {
@@ -287,12 +296,10 @@ body {
     }
 
     article div p {
-        background-color: grey;
-        border: 2px solid black;
-        border-radius: 10px;
         width: 585px;
         flex-basis: 585px;
         height: fit-content;
         line-height: 1.75;
+        text-align: left;
     }
 }

@@ -30,13 +30,12 @@
             </ul>
         </nav>
         <img src="Images/Croix-Rousse/hopital-croix-rousse.jpg" alt="Hopital Croix-Rousse">
-        <!-- image emblématique + sous menu -->
     </header>
 
     <article>
         <h2>Histoire</h2>
         <div class="imgLeft">
-            <img src="Images/Croix-Rousse/fortification-croix-rousse.jpg" alt="Fortification Croix-Rousse"> <!-- image fortification + croix couleur rousse -->
+            <img src="Images/Croix-Rousse/fortification-croix-rousse.jpg" alt="Fortification Croix-Rousse">
             <p>
                 En 1512, Louis XII ordonne la construction de remparts pour protéger la ville de Lyon. Ces derniers, prenaient naissance à la rupture des pentes et isolaient le plateau sur sa partie sud, créant ainsi un nouveau faubourg aux abords de Lyon. C’est vers la moitié du XVIème siècle que ce faubourg pris le nom qu’on lui connaît aujourd’hui. En 1560, une croix en pierre de Couzon, caractérisée par sa couleur ocre fut installée sur le plateau de la colline. C’est elle qui donna son nom au jeune quartier.
             </p>
@@ -48,7 +47,7 @@
             </p>
         </div>
         <div class="imgLeft">
-            <img src="Images/Croix-Rousse/atelier-des-canuts.jpg" alt="Atelier des Canuts"> <!-- image atelier des canuts + atelier des canuts 1890 -->
+            <img src="Images/Croix-Rousse/atelier-des-canuts.jpg" alt="Atelier des Canuts">
             <p>
                 Au cours du XIXème siècle, de hauts immeubles atypiques et lumineux destinés à abriter des métiers à tisser imposants mais également les logements des canuts, fleurissent sur la colline de la Croix-Rousse. Parallèlement à ce développement immobilier, la Croix-Rousse se dote d’un réseau de voirie. C’est à ce moment-là qu’apparaissent les ruelles étroites que l’on peut encore observer aujourd’hui, mais aussi les traboules. Ces passages (devenus célèbres) qui traversent les cours des immeubles étaient destinés aux piétons et leur permettaient de gagner plus facilement la presqu’île lyonnaise. L’implantation de l’industrie de la soie vaudra rapidement à la Croix-Rousse le surnom de « colline qui travaille » en opposition avec Fourvière, « la colline qui prie ». Forte de son activité industrielle intensive, Lyon accéda par ailleurs rapidement au statut de première ville ouvrière de France.
             </p>
@@ -58,12 +57,11 @@
 
     <article>
         <h2>Culture</h2>
-        <div class="imgLeft">
-            <img src="Images/Croix-Rousse/gros-caillou.jpg" alt="Gros caillou Croix-Rousse"> <!-- image gros caillou + gros caillou historique -->
-            <p>
-                Le gros caillou : l’un des emblèmes du quartier de la Croix-Rousse exhumé en 1861 lors des travaux de forage effectués dans le cadre de la construction de la « ficelle » ou funiculaire de la Croix-Rousse. Tout porte à croire qu’il date de l’ère glaciaire et provient des Alpes
-            </p>
-        </div>
+        <img src="Images/Croix-Rousse/gros-caillou.jpg" alt="Gros caillou Croix-Rousse">
+        <p>
+            Le gros caillou : l’un des emblèmes du quartier de la Croix-Rousse exhumé en 1861 lors des travaux de forage effectués dans le cadre de la construction de la « ficelle » ou funiculaire de la Croix-Rousse. Tout porte à croire qu’il date de l’ère glaciaire et provient des Alpes
+        </p>
+        <img src="Images/Croix-Rousse/gros-caillou-historique.jpg" alt="Gros caillou Croix-Rousse historique">
         <div class="imgRight">
             <img src="Images/Croix-Rousse/Cour-des-Voraces.jpg" alt="Cour des Voraces Croix-Rousse">
             <p>
@@ -81,7 +79,27 @@
 
     <article>
         <h2>Restauration</h2>
-        <!-- le baltaz'art -->
+        <p>
+        Quartier parmi les plus authentiques de Lyon, la Croix-Rousse est aussi l’un de ceux dans lesquels on mange le mieux. Dans les pentes ou sur le plateau, les adresses gourmandes se succèdent pour donner une atmosphère encore plus envoûtante à ce quartier qui ne manque décidément pas de magie.
+        </p>
+        <div class="imgLeft">
+            <img src="Images/Croix-Rousse/chez-lucien-la-salle-04.jpg" alt="Chez Lucien">
+            <p>
+            Le plus convivial, Chez Lucien : Ouvert depuis 2016 par un diplômé de l’Institut Paul Bocuse dans la rue de Belfort, Chez Lucien s’est fixé un objectif simple et clairement atteint : régaler ses convives dans une ambiance sympa. Sous ses allures de bistrot de campagne, l’adresse dégaine une carte à la fois authentique, créative, généreuse et évolutive faite exclusivement à partir de produits frais et de saison. Le plat signature, c’est le ragoût de pied de cochon aux piquillos gratiné à la moelle. Ajoutez à cela une adorable mascotte à quatre pattes et une petite cour secrète ombragée, et vous tenez un spot enchanteur qui vous ravira à coup sûr !
+            </p>
+        </div>
+        <div class="imgRight">
+            <img src="Images/Croix-Rousse/le-plato.jpg" alt="Le plato">
+            <p>
+            Le plus authentique, Le Plato : Au Plato, c'est le goût avant tout ! Dans ce resto typique de la Croix-Rousse, on déguste une savoureuse cuisine du marché avec une pointe de créativité. Pâtissier, chocolatier et glacier de formation, le chef sublime les produits frais avec des recettes traditionnelles qui évoluent au gré des saisons : filet de boeuf rossini, millefeuille revisité, os à moelle ou encore nougat glacé feront chavirer vos papilles. Côté déco, on est sur un vrai établissement croix-roussien avec des pierres et poutres apparentes, une belle verrière et une jolie petite terrasse de 20 couverts. Une adresse parfaite pour se faire plaisir avec des classiques de la cuisine de marché. 
+            </p>
+        </div>
+        <div class="imgLeft">
+            <img src="Images/Croix-Rousse/le-canuts-et-les-gones.jpg" alt="Le canuts et les gones">
+            <p>
+            Le plus vintage, Le Canuts & les Gones : Véritable institution du quartier de la Croix-Rousse depuis 1994, Le Canut & les Gones est largement à la hauteur de sa réputation. Si la cuisine entre tradition et raffinement fait mouche à tous les coups, c’est le décor presque théâtral de brocante qui fait la différence. Dans un cadre fait de papier peint rétro et d’objets chinés, l’adresse nous embarque pour un voyage des sens à une époque où le temps semble s’être figé. Cerise sur le gâteau : le restaurant offre un excellent rapport qualité-prix avec des produits frais, de saison et des plats qui changent très régulièrement (et même tous les jours pour certains).
+            </p>
+        </div>
     </article>
 
 
@@ -93,13 +111,12 @@
                 Jardin rosa Mir : Ce jardin atypique niché au cœur de la Croix-Rousse, œuvre de Jules Senis Mir, ce maçon espagnol autodidacte qui a réalisé l’ouvrage pierre par pierre. Construit à partir de 1957, le jardin Rosa mir aux inspirations arabo-andalouses est composé de matériaux accumulés pendant des années : galets, cailloux ramassés sur des chantiers, coquillages ...
             </p>
         </div>
+        <img src="Images/Croix-Rousse/mur-peint-croix-rousse.jpg" alt="Mur peint Henon">
+        <p>
+            Arts urbains sur croix-rousse : Le mur des Canuts, mur 69
+        </p>
+        <img src="Images/Croix-Rousse/mur-69.jpg" alt="Mur peint Croix-Rousse">
         <div class="imgRight">
-            <img src="Images/Croix-Rousse/mur-peint-croix-rousse.jpg" alt="Mur peint Croix-Rousse"> <!-- image mur des Canuts + mur 69 -->
-            <p>
-                Arts urbains sur croix-rousse : Le mur des Canuts, mur 69
-            </p>
-        </div>
-        <div class="imgLeft">
             <img src="Images/Croix-Rousse/Parc-Cerisaie.jpg" alt="Jardin Rosa Mir Croix-Rousse"> <!-- image parcs -->
             <p>
                 Espaces verts : Parc de la cerisaie, parc sutter, square Gustave-Auguste Ferrié
