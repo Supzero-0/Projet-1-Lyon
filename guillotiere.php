@@ -35,7 +35,7 @@
     </div>
 
     <article>
-        <h2>Un brin d'histoire</h2>
+        <h2 id="histoire">Un brin d'histoire</h2>
         <div class="imgLeft">
             <img src="Images\Images Guillotière\Histoire-pont-de-la-guillotiere.jpg" alt="Histoire pont de la Guillotière">
             <p>La Guillotière est située sur la rive gauche du Rhône et recouvre une partie des 3ème et 7ème arrondissements de Lyon. L'origine de son nom est incertaine, venant du nom de fameux aubergistes locaux, des druides qui s'y rendaient pour en ramener du gui, ou encore des grelots des mulets qui traversaient le pont.</p>
@@ -48,7 +48,7 @@
     </article>
 
     <article>
-        <h2>La vie culturelle</h2>
+        <h2 id="culture">La vie culturelle</h2>
         <div class="imgLeft">
             <img src="Images\Images Guillotière\Culture - Nouvel an chinois.jpg" alt="Nouvel an chinois">
             <p>De par sa longue tradition d'accueil et d'arrivée de populations immigrées, "la Guill" est un véritable melting pot ! En effet, le pont de la Guillotière a longtemps été le seul pont de Lyon sur le Rhône, lui conférant un statut unique de porte d'entrée sur la ville. Aujourd'hui encore, de nombreuses associations et amicales de cultures étrangères s'y retrouvent, de l'Asie à l'Afrique en passant par l'Europe de l'est.</p>
@@ -61,7 +61,7 @@
     </article>
 
     <article>
-        <h2>Où sortir le soir ?</h2>
+        <h2 id="restauration">Où sortir le soir ?</h2>
         <div class="imgLeft">
             <img src="Images\Images Guillotière\Sorties-PLace Raspail.jpg" alt="Place Raspail">
             <p>La Guillotière est aussi très connue et appréciée pour sa vie nocturne. Que ce soit pour un afterwork posé dans un bar cosy ou une soirée endiablée sur le dancefloor des péniches, de nombreuses options s'offrent à vous !</p>
@@ -74,7 +74,7 @@
     </article>
 
     <article>
-        <h2>Que faire la journée ?</h2>
+        <h2 id="activites">Que faire la journée ?</h2>
         <div class="imgLeft">
             <img src="Images\Images Guillotière\Activités - Quais du Rhône.jpg" alt="Quais du Rhône">
             <p>Il existe de nombreux lieux à découvrir et surtout d'espaces à explorer à la Guillotière. Le centre Berthelot est un lieu chargé d'histoire, tandis que le cinéma Comoedia propose une sélection de films de qualité.</p>
