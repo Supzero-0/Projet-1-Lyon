@@ -32,7 +32,7 @@
     </header>
     <!-- sous menu -->
     <article>
-        <h2>Histoire</h2>
+        <h2 id="histoire">Histoire</h2>
         <div class="imgLeft">
             <img src="Images/IMGVLyon/vieuxlyonold.jpeg">
             <p>
@@ -43,7 +43,7 @@
     </article>
     <!-- image vieux Lyon 1960 -->
     <article>
-        <h2>Culture</h2>
+        <h2 id="culture">Culture</h2>
         <div class="imgLeft">
             <img src="Images/IMGVLyon/museegadagne.jpeg">
             <p>
@@ -54,7 +54,7 @@
     </article>
 
     <article>
-        <h2>Restaurant</h2>
+        <h2 id="restauration">Restauration</h2>
         <div class="imgLeft">
             <img src="Images/IMGVLyon/restaurants-VL.jpeg" alt="restaurantVLyon">
             <p>
@@ -68,7 +68,7 @@
     </article>
 
     <article>
-        <h2>Activité</h2>
+        <h2 id="activites">Activités</h2>
         <div class="imgLeft">
             <img src="Images/IMGVLyon/parc-des-hauteurs-lyon-1.jpeg" alt="parcdeshauteurs">
             <p>
