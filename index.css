@@ -40,9 +40,6 @@
 .main-nav li a:link {
     text-decoration: none;
 }
-
-ul {}
-
 .main-nav li a:visited {
     color: #0075b2;
     text-decoration: none;
@@ -96,6 +93,28 @@ ul {}
 
 }
 
+#petitLion:hover {
+    cursor: pointer;
+
+}
+.petitLion {
+    display: flex; 
+    justify-content: center;
+}
+#petitLion {
+    display: flex;
+    justify-content: center;
+    width: 10vw;
+}
+@media screen and (max-width: 630px) {
+    .petitLion {
+        display: none; 
+     }
+    #petitLion {
+        display: none;
+        
+    }
+}
 body {
     background: rgba(245, 129, 76, 0.2);
     background: linear-gradient(225deg, rgba(245, 129, 76, 0.2) 0%, rgba(235, 163, 87, 0.31) 80%);
